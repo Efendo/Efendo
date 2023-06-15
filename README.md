@@ -1,63 +1,22 @@
+![]("https://htmclicker.efendo.repl.co")
 # Heya!
 Hello, i am a Developer that started out on scratch. heres all the programming languages i know:
 
 - ExecScript
-````C++
-// ExecScript is my own programming language built on C++
-
-int main(){
-  print "i need to Exec this Script!" << std::endl;
-}
-````
 - C
-````C
-#include <stdio>
-
-int main(){
-  printf("as you can C!");
-  return 0;
-}
-````
 - C++
-````C++
-#include <iostream>
-
-using namespace std;
-
-int main(){
-  cout << "i can C incremented by one!" << endl;
-  return 0;
-}
-````
 - Java
-````Java
-class App {
-  public static void main(String[] args) {
-    System.out.println("the Java dev need glasses since he can C#!");
-  }
-}
-````
 - Python
-````Python
-print("oh my Python escaped!")
-````
 - Basic
-````Basic
-PRINT "this is really Basic!"
-````
 - Lua
-````Lua
-print("Lua! Come over here!")
-````
 - Scratch
-````
-|Say (im Scratching my head right now!)|
-````
 - Shell (Bash / zsh)
-````Shell
-echo "a turtle Shell!"
-````
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Efendo&theme=dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Efendo&theme=dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Efendo&theme=dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Efendo&theme=dark&utcOffset=8) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Efendo&theme=dark)
 
 ## Accounts
 [Scratch](https://scratch.mit.edu/users/Efendo)
