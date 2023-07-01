@@ -2,7 +2,7 @@
 # Heya!
 Hello, i am a Developer that started out on scratch. heres all the programming languages i know:
 
-- ExecScript
+```` ExecScript ````
 - C
 - C++
 - Java
