@@ -2,15 +2,15 @@
 # Heya!
 Hello, i am a Developer that started out on scratch. heres all the programming languages i know:
 
-```` ExecScript ````
-- C
-- C++
-- Java
-- Python
-- Basic
-- Lua
-- Scratch
-- Shell (Bash / zsh)
+```` 🟢 ExecScript ````
+```` 💾 C ````
+```` 💿 C++ ````
+```` ☕️ Java ````
+```` 🐍 Python ````
+```` ⌨️ Basic ````
+```` 🌑 Lua ````
+```` 🐱 Scratch ````
+```` 📟 Shell (Bash / zsh) ````
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Efendo&theme=dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Efendo&theme=dark) 
