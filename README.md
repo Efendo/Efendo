@@ -3,13 +3,21 @@
 Hello, i am a Developer that started out on scratch. heres all the programming languages i know:
 
 ```` 🆕 ExecScript ````
+
 ```` 💾 C ````
+
 ```` 💿 C++ ````
+
 ```` ☕️ Java ````
+
 ```` 🐍 Python ````
+
 ```` ⌨️ Basic ````
+
 ```` 🌑 Lua ````
+
 ```` 🐱 Scratch ````
+
 ```` 📟 Shell ````
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Efendo&theme=dark) 
