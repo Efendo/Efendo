@@ -2,7 +2,7 @@
 # Heya!
 Hello, i am a Developer that started out on scratch. heres all the programming languages i know:
 
-```` 🟢 ExecScript ````
+```` 🆕 Excs ````
 ```` 💾 C ````
 ```` 💿 C++ ````
 ```` ☕️ Java ````
@@ -10,7 +10,7 @@ Hello, i am a Developer that started out on scratch. heres all the programming l
 ```` ⌨️ Basic ````
 ```` 🌑 Lua ````
 ```` 🐱 Scratch ````
-```` 📟 Shell (Bash / zsh) ````
+```` 📟 Shell ````
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Efendo&theme=dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Efendo&theme=dark) 
