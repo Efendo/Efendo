@@ -1,5 +1,5 @@
 ![]("https://htmclicker.efendo.repl.co")
-# Heya!
+# 👋 Heya!
 Hello, i am a Developer that started out on scratch. heres all the programming languages i know:
 
 ```` 🆕 ExecScript ````
