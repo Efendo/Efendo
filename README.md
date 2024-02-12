@@ -1,26 +1,7 @@
 ![]("https://htmclicker.efendo.repl.co")
 # 👋 Heya!
-Hello, i am a Developer that started out on scratch. heres all the programming languages i know:
 
-```` 🆕 ExecScript ````
-
-```` 💾 C ````
-
-```` 💿 C++ ````
-
-```` ☕️ Java ````
-
-```` 🖥️ JavaScript ````
-
-```` 🐍 Python ````
-
-```` ⌨️ Basic ````
-
-```` 🌑 Lua ````
-
-```` 🐱 Scratch ````
-
-```` 📟 Shell ````
+Im a hobbiest python developer using Debian.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Efendo&theme=dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Efendo&theme=dark) 
