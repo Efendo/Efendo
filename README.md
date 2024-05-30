@@ -1,8 +1,6 @@
 ![]("https://htmclicker.efendo.repl.co")
 # 👋 Heya!
 
-Im a hobbiest python developer using Debian.
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Efendo&theme=dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Efendo&theme=dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Efendo&theme=dark) 
